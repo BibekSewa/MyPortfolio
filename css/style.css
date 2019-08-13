@@ -128,7 +128,7 @@ height: 100vh;
 .portrait{
     width: 250px;
     height: 250px;
-    background: red;
+    background:url(../images/15803550_233563397099291_2030968684272418816_n.jpg) no-repeat center/cover;
     border-radius: 50%;
     border: solid 2px yellow;
 }
